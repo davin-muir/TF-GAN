@@ -100,7 +100,7 @@ for i in range(10001):
                                "Generated data before G step","Generated data after G step"))
         plt.title('Transformed features at iteration %d'%i)
         plt.tight_layout()
-        plt.savefig('plots/features/feaure_transform_%d.png'%i)
+        plt.savefig('plots/features/feature_transform_%d.png'%i)
         plt.close()
 
         plt.figure()
