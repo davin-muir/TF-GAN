@@ -7,7 +7,7 @@ GANs are used to employ 'indirect' training, where one neural net acts as a disc
 - Given a training set, GANs are able to generate data directly proportional to the training set's statistics. 
 
 ##### Using the adversarial process to train neural networks
-- Imagine a CIA agent assigned to a bust a counterfeiting scheme. The criminals' objective is to devise increasingly complex ways of counterfeiting money such that the CIA agent can't distinguish between the fake money and real money
+- Imagine a CIA agent is assigned to a investigate a counterfeiting scheme. The criminals' objective is to devise increasingly complex ways of counterfeiting money such that the CIA agent can't distinguish between the fake money and real money
 - The CIA agent's objective is to effectively analyze money to distinguish between counterfeit money & real money.
   Overtime the CIA develops increasingly sophisticated technology to detect counterfeit cash, this is known as the Adversarial Process.
 
